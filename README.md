@@ -36,8 +36,10 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junredzik&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junredzik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 [![](https://visitcount.itsvg.in/api?id=junredzik&label=siemson&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
